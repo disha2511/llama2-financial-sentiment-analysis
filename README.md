@@ -65,14 +65,9 @@ Positive
 
 The instruction-tuned LLaMA2 model demonstrated improved contextual understanding of financial language, particularly in cases involving:
 
-- Neutral vs negative financial signals
+- Neutral vs negative vs positive financial signals
 - Earnings reports
 - Market movement descriptions
 - Risk disclosures
 
-(Insert your actual metrics here once finalized.)
-
----
-
-## 📁 Project Structure
 
